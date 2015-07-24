@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Radioactive
+Description=Radioactive Splash Screen
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/radioactive
+ScriptFile=/usr/share/plymouth/themes/radioactive/radioactive.script
+
+[script-env-vars]
+example_env_var=example env var value
