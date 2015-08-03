@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="80"
+   height="15"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="branding.svgz"
+   inkscape:output_extension="org.inkscape.output.svgz.inkscape">
+  <title
+     id="title3001">Tilain</title>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.2"
+     inkscape:cx="14.753185"
+     inkscape:cy="15.068145"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     showgrid="true"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3759"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     transform="translate(-335,-524.86218)"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <g
+       id="brilliant">
+      <rect
+         transform="translate(335,524.86218)"
+         y="0"
+         x="0"
+         height="15"
+         width="80"
+         id="rect3779"
+         style="fill:none;stroke:none" />
+      <path
+         style="font-size:15.00819588px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+         d="m 1,4 0,10 2,0 0,-4 4,4 2.96875,0.09375 L 5,9 10,4 7,4 3,8 3,4 z m 11,0 0,10 3,0 c 2.761424,0 5,-2.238576 5,-5 0,-2.7614237 -2.243046,-4.8429485 -5,-5 z m 10,0 0,10 7,0 0,-2 -5,0 0,-2 4,0 L 28,8 24,8 24,5.96875 29,6 29,4 z m -8,2 1,0 c 1.656854,0 3,1.3431458 3,3 0,1.656854 -1.343146,3 -3,3 l -1,0 z"
+         transform="translate(335,524.86218)"
+         id="text2987"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccssscccccccccccccccssscc" />
+      <path
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#262626;fill-opacity:1;stroke:none;font-family:Sans"
+         d="M 33 1 L 33 3 L 37 3 L 37 14 L 39 14 L 39 3 L 43 3 L 43 1 L 33 1 z M 45 1 L 45 3 L 47 3 L 47 1 L 45 1 z M 49 1 L 49 10 C 49 13 50 14 53 14 L 53 12 C 52 12 50.92095 11.9984 51 10 L 51 1 L 49 1 z M 66 1 L 66 3 L 68 3 L 68 1 L 66 1 z M 45 5 L 45 14 L 47 14 L 47 5 L 45 5 z M 59.5 5 C 57.014719 5 55 7.0147186 55 9.5 C 55 11.985281 57.014719 14 59.5 14 C 60.417223 14 61.288587 13.721214 62 13.25 L 62 14 L 64 14 L 64 9.5 L 64 5 L 62 5 L 62 5.75 C 61.288587 5.2787859 60.417223 5 59.5 5 z M 66 5 L 66 14 L 68 14 L 68 5 L 66 5 z M 70 5 L 70 14 L 72 14 L 72 9.5 C 72 8.1150007 73.115001 7 74.5 7 C 75.884999 7 77 8.1150007 77 9.5 L 77 14 L 79 14 L 79 9.5 C 79 7.007 76.993 5 74.5 5 C 73.579928 5 72.71122 5.2797245 72 5.75 L 72 5 L 70 5 z M 59.5 7 C 60.880712 7 62 8.1192881 62 9.5 C 62 10.880712 60.880712 12 59.5 12 C 58.119288 12 57 10.880712 57 9.5 C 57 8.1192881 58.119288 7 59.5 7 z "
+         transform="translate(335,524.86218)"
+         id="text2989" />
+    </g>
+  </g>
+</svg>

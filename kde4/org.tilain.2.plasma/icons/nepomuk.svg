@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="24"
+   height="24"
+   id="svg3314"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="nepomuk.svg">
+  <title
+     id="title2995">Tilain</title>
+  <defs
+     id="defs3316" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="64"
+     inkscape:cx="11.498902"
+     inkscape:cy="13.597394"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3045"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="5,20"
+       id="guide3086" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="6,4"
+       id="guide3088" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,12"
+       id="guide4128" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3319">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Tilain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene#1">
+    <g
+       transform="translate(0.497441,-7.6239873)"
+       id="nepomuk">
+      <path
+         style="opacity:0.2;fill:#ffffff"
+         d="M 12 3 C 7.581722 3 4 6.581722 4 11 C 4 12.436393 4.3997096 13.772266 5.0625 14.9375 C 3.8305989 16.228966 4.0268383 16.272714 2.78125 17.53125 C 2.5499437 17.857541 2.40625 18.257099 2.40625 18.6875 C 2.40625 19.792069 3.3016805 20.6875 4.40625 20.6875 C 4.8937841 20.6875 5.3404656 20.508625 5.6875 20.21875 C 6.9286051 19.026996 6.8041814 19.131289 8.0625 17.9375 C 9.2277336 18.60029 10.563607 19 12 19 C 16.418278 19 20 15.418278 20 11 C 20 6.581722 16.418278 3 12 3 z M 12 4 C 15.865993 4 19 7.1340068 19 11 C 19 14.865993 15.865993 18 12 18 C 10.575772 18 9.2616936 17.574334 8.15625 16.84375 C 6.9443224 18.089033 6.6381884 18.453749 5.46875 19.65625 C 5.208158 19.874779 4.8667008 20 4.5 20 C 3.6715729 20 3 19.328427 3 18.5 C 3 18.110152 3.1624465 17.766736 3.40625 17.5 C 4.2824016 16.640664 5.2502879 15.715629 6.15625 14.84375 C 5.4256662 13.738306 5 12.424227 5 11 C 5 7.1340068 8.1340068 4 12 4 z M 12 6 C 9.2385763 6 7 8.2385763 7 11 C 7 13.761424 9.2385763 16 12 16 C 14.761424 16 17 13.761424 17 11 C 17 8.2385763 14.761424 6 12 6 z M 12 7 C 14.209139 7 16 8.790861 16 11 C 16 13.209139 14.209139 15 12 15 C 9.790861 15 8 13.209139 8 11 C 8 8.790861 9.790861 7 12 7 z "
+         transform="translate(-0.497441,7.6239873)"
+         id="path3012" />
+      <rect
+         width="24"
+         height="24"
+         x="-0.49744079"
+         y="7.6239872"
+         id="rect3005"
+         style="opacity:0;fill:#ffffff;fill-opacity:1;stroke:none" />
+      <path
+         style="fill:#262626;fill-opacity:1;stroke:none"
+         d="M 12,4 C 8.1340068,4 5,7.1340068 5,11 5,12.424227 5.4256662,13.738306 6.15625,14.84375 5.2502879,15.715629 4.2820266,16.640664 3.405875,17.5 c -0.2438035,0.266736 -0.40625,0.610152 -0.40625,1 0,0.828427 0.6715729,1.5 1.5,1.5 0.3667008,0 0.708158,-0.125221 0.96875,-0.34375 C 6.6378134,18.453749 6.9443224,18.089033 8.15625,16.84375 9.2616936,17.574334 10.575772,18 12,18 c 3.865993,0 7,-3.134007 7,-7 0,-3.8659932 -3.134007,-7 -7,-7 z m 0,2 c 2.761424,0 5,2.2385763 5,5 0,2.761424 -2.238576,5 -5,5 C 9.2385763,16 7,13.761424 7,11 7,8.2385763 9.2385763,6 12,6 z"
+         transform="translate(-0.497441,7.6239873)"
+         id="path2996"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssccssccssssssss" />
+    </g>
+  </g>
+</svg>
