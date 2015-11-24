@@ -203,6 +203,10 @@ Type=Threshold
 Size=32
 Context=Animations
 Type=Threshold
+[32x32/apps]
+Size=32
+Context=Applications
+Type=Threshold
 [48x48/animations]
 Size=48
 Context=Animations
@@ -230,4 +234,8 @@ Type=Threshold
 [256x256/animations]
 Size=256
 Context=Animations
+Type=Threshold
+[256x256/apps]
+Size=256
+Context=Applications
 Type=Threshold
