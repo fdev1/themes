@@ -11,10 +11,30 @@
    viewBox="0 0 128 128"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    width="100%"
    height="100%"
-   sodipodi:docname="slider.svgz">
+   sodipodi:docname="slider.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="2.6074563"
+     inkscape:cx="-99.497716"
+     inkscape:cy="40.171164"
+     inkscape:window-x="-9"
+     inkscape:window-y="-5"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
   <title
      id="title2995">Tilain</title>
   <metadata
@@ -31,522 +51,578 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     id="namedview32"
-     showgrid="false"
-     inkscape:zoom="2.6074563"
-     inkscape:cx="-99.497716"
-     inkscape:cy="40.171164"
-     inkscape:window-x="0"
-     inkscape:window-y="26"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4021"
-       id="radialGradient4092"
-       cx="106"
-       cy="33"
-       fx="106"
-       fy="33"
-       r="12"
+       gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,-1.944442e-8,1.7948696e-8,1.0833333,-5.9232015e-7,-2.7499979)"
-       gradientUnits="userSpaceOnUse" />
+       r="12"
+       fy="33"
+       fx="106"
+       cy="33"
+       cx="106"
+       id="radialGradient4092"
+       xlink:href="#linearGradient4021"
+       inkscape:collect="always" />
     <linearGradient
        id="linearGradient4021">
       <stop
-         style="stop-color:#000000;stop-opacity:0.40000001;"
+         id="stop4023"
          offset="0"
-         id="stop4023" />
-      <stop
-         id="stop4056"
-         offset="0.76999998"
          style="stop-color:#000000;stop-opacity:0.40000001;" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
-         offset="0.96229506"
-         id="stop4058" />
+         style="stop-color:#000000;stop-opacity:0.40000001;"
+         offset="0.76999998"
+         id="stop4056" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         id="stop4058"
+         offset="0.96229506"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         id="stop4025"
          offset="1"
-         id="stop4025" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
-       r="70"
-       fy="231.10249"
-       fx="355.5"
-       cy="231.10249"
-       cx="355.5"
-       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient4807"
+       inkscape:collect="always"
        xlink:href="#linearGradient8734-8"
+       id="radialGradient4807"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
+       cx="355.5"
+       cy="231.10249"
+       fx="355.5"
+       fy="231.10249"
+       r="70" />
+    <linearGradient
+       id="linearGradient8734-8"
+       inkscape:collect="always">
+      <stop
+         id="stop8736-8"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop8738-4"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8734-8"
+       id="radialGradient4655"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
+       cx="355.5"
+       cy="231.10249"
+       fx="355.5"
+       fy="231.10249"
+       r="70" />
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,-1.944442e-8,1.7948696e-8,1.0833333,-5.9232015e-7,-2.7499979)"
+       r="12"
+       fy="33"
+       fx="106"
+       cy="33"
+       cx="106"
+       id="radialGradient4092-534"
+       xlink:href="#linearGradient4021-590"
        inkscape:collect="always" />
     <linearGradient
-       inkscape:collect="always"
-       id="linearGradient8734-8">
+       id="linearGradient4021-590">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         id="stop3090"
          offset="0"
-         id="stop8736-8" />
+         style="stop-color:#000000;stop-opacity:0.40000001;" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0;"
+         style="stop-color:#000000;stop-opacity:0.40000001;"
+         offset="0.76999998"
+         id="stop3092" />
+      <stop
+         id="stop3094"
+         offset="0.96229506"
+         style="stop-color:#000000;stop-opacity:0;" />
+      <stop
+         id="stop3096"
          offset="1"
-         id="stop8738-4" />
+         style="stop-color:#000000;stop-opacity:0;" />
     </linearGradient>
     <radialGradient
-       r="70"
-       fy="231.10249"
-       fx="355.5"
-       cy="231.10249"
-       cx="355.5"
-       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient8734-8-43"
+       id="radialGradient4807-316"
        gradientUnits="userSpaceOnUse"
-       id="radialGradient4655"
-       xlink:href="#linearGradient8734-8"
-       inkscape:collect="always" />
+       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
+       cx="355.5"
+       cy="231.10249"
+       fx="355.5"
+       fy="231.10249"
+       r="70" />
+    <linearGradient
+       id="linearGradient8734-8-43"
+       inkscape:collect="always">
+      <stop
+         id="stop3100"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3102"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient8734-8-861"
+       id="radialGradient4655-274"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06792404,-1.5772391e-7,0,0.2845765,242.35364,65.72604)"
+       cx="355.5"
+       cy="231.10249"
+       fx="355.5"
+       fy="231.10249"
+       r="70" />
+    <linearGradient
+       id="linearGradient8734-8-861"
+       inkscape:collect="always">
+      <stop
+         id="stop3106"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+      <stop
+         id="stop3108"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
   </defs>
   <g
-     transform="translate(70.000003,24)"
-     id="horizontal-slider-line">
+     id="horizontal-slider-line"
+     transform="translate(70.000003,24)">
     <rect
-       style="fill:#43b1f6;fill-opacity:1;stroke:none"
-       id="rect4144"
-       width="42"
-       height="4"
+       y="31"
        x="11"
-       y="31" />
+       height="4"
+       width="42"
+       id="rect4144"
+       style="fill:#000000;fill-opacity:1;stroke:none" />
   </g>
   <path
-     sodipodi:type="arc"
-     style="opacity:0;fill:url(#radialGradient4092);fill-opacity:1;stroke:none"
-     id="path3900"
-     sodipodi:cx="106"
-     sodipodi:cy="33"
-     sodipodi:rx="12"
-     sodipodi:ry="13"
+     transform="matrix(1.25,0,0,1.1538462,-31.499997,18.923077)"
      d="m 118,33 a 12,13 0 1 1 -24,0 12,13 0 1 1 24,0 z"
-     transform="matrix(1.25,0,0,1.1538462,-31.499997,18.923077)" />
+     sodipodi:ry="13"
+     sodipodi:rx="12"
+     sodipodi:cy="33"
+     sodipodi:cx="106"
+     id="path3900"
+     style="opacity:0;fill:url(#radialGradient4092-534);fill-opacity:1;stroke:none"
+     sodipodi:type="arc" />
   <g
-     transform="translate(-236,-76)"
-     id="groove-highlight-center">
+     id="groove-highlight-center"
+     transform="translate(-236,-76)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4733"
        d="m 264,112 0,5 5,0 0,-5 -5,0 z"
-       id="path4733" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-237,-77)"
-     id="groove-highlight-topleft">
+     id="groove-highlight-topleft"
+     transform="translate(-237,-77)">
     <path
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 260,108 0,4 4,0 0,-4 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
        id="path4737"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0" />
+       d="m 260,108 0,4 4,0 0,-4 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 259,107 0,5 1,0 0,-4 4,0 0,-1 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
        id="path4739"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="m 259,107 0,5 1,0 0,-4 4,0 0,-1 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
-     transform="translate(-237,-76)"
-     id="groove-highlight-left">
+     id="groove-highlight-left"
+     transform="translate(-237,-76)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4747"
        d="m 259,112 0,5 1,0 0,-5 -1,0 z"
-       id="path4747" />
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4749"
        d="m 260,112 0,5 4,0 0,-5 -4,0 z"
-       id="path4749" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-236,-77)"
-     id="groove-highlight-top">
+     id="groove-highlight-top"
+     transform="translate(-236,-77)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4755"
        d="m 264,108 0,4 5,0 0,-4 -5,0 z"
-       id="path4755" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:url(#radialGradient4807);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4757"
        d="m 264,107 0,1 5,0 0,-1 -5,0 z"
-       id="path4757" />
+       style="fill:url(#radialGradient4807-316);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 264,107 0,1 5,0 0,-1 z"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
        id="path4759"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       d="m 264,107 0,1 5,0 0,-1 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
-     transform="translate(-237,-75)"
-     id="groove-highlight-bottomleft">
+     id="groove-highlight-bottomleft"
+     transform="translate(-237,-75)">
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 259,117 0,5 5,0 0,-1 -4,0 0,-4 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
        id="path4767"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="m 259,117 0,5 5,0 0,-1 -4,0 0,-4 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 260,117 0,4 4,0 0,-4 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
        id="path4769"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0" />
+       d="m 260,117 0,4 4,0 0,-4 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
-     transform="translate(-236,-75)"
-     id="groove-highlight-bottom">
+     id="groove-highlight-bottom"
+     transform="translate(-236,-75)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4775"
        d="m 264,121 0,1 5,0 0,-1 -5,0 z"
-       id="path4775" />
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4777"
        d="m 264,117 0,4 5,0 0,-4 -5,0 z"
-       id="path4777" />
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(-235,-77)"
-     id="groove-highlight-topright">
+     id="groove-highlight-topright"
+     transform="translate(-235,-77)">
     <path
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 269,108 0,4 4,0 0,-4 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
        id="path4783"
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0" />
+       d="m 269,108 0,4 4,0 0,-4 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
     <path
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 269,107 0,1 4,0 0,4 1,0 0,-5 z"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
        id="path4785"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       d="m 269,107 0,1 4,0 0,4 1,0 0,-5 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
   <g
-     transform="translate(-235,-76)"
-     id="groove-highlight-right">
+     id="groove-highlight-right"
+     transform="translate(-235,-76)">
     <path
-       inkscape:connector-curvature="0"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="path4793"
        d="m 273,112 0,5 1,0 0,-5 -1,0 z"
-       id="path4793" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 269,112 0,5 4,0 0,-5 -4,0 z"
-       id="path4795" />
-  </g>
-  <g
-     transform="translate(-235,-75)"
-     id="groove-highlight-bottomright">
-    <path
        style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 273,117 0,4 -4,0 0,1 5,0 0,-5 z"
-       id="path4801"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccc" />
+       inkscape:connector-curvature="0" />
     <path
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="m 269,117 0,4 4,0 0,-4 z"
-       id="path4803"
-       sodipodi:nodetypes="ccccc"
+       id="path4795"
+       d="m 269,112 0,5 4,0 0,-5 -4,0 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g
-     transform="translate(50.000003,31)"
-     id="vertical-slider-line">
-    <rect
-       style="fill:#43b1f6;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect4227-4"
-       width="42"
-       height="4"
-       x="-31"
-       y="7"
-       transform="matrix(0,-1,1,0,0,0)" />
+     id="groove-highlight-bottomright"
+     transform="translate(-235,-75)">
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path4801"
+       d="m 273,117 0,4 -4,0 0,1 5,0 0,-5 z"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       id="path4803"
+       d="m 269,117 0,4 4,0 0,-4 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   </g>
+  <g
+     id="vertical-slider-line"
+     transform="translate(50.000003,31)">
+    <rect
+       transform="matrix(0,-1,1,0,0,0)"
+       y="7"
+       x="-31"
+       height="4"
+       width="42"
+       id="rect4227-4"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+  <rect
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="groove-highlight-hint-left-margin"
+     width="3"
+     height="3"
+     x="22.000004"
+     y="37" />
+  <rect
+     y="30"
+     x="29.000002"
+     height="3"
+     width="3"
+     id="groove-highlight-hint-top-margin"
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="groove-highlight-hint-bottom-margin"
+     width="3"
+     height="3"
+     x="29.000002"
+     y="44" />
   <rect
      y="37"
-     x="22.000004"
-     height="3"
-     width="3"
-     id="groove-highlight-hint-left-margin"
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="groove-highlight-hint-top-margin"
-     width="3"
-     height="3"
-     x="29.000002"
-     y="30" />
-  <rect
-     y="44"
-     x="29.000002"
-     height="3"
-     width="3"
-     id="groove-highlight-hint-bottom-margin"
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="groove-highlight-hint-right-margin"
-     width="3"
-     height="3"
      x="36.000004"
-     y="37" />
+     height="3"
+     width="3"
+     id="groove-highlight-hint-right-margin"
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <g
-     transform="translate(-12.749997,-64)"
-     id="vertical-slider-handle">
+     id="vertical-slider-handle"
+     transform="translate(-12.749997,-64)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 27,47 0,14 14,0 0,-14 z"
-       transform="translate(37.75,48)"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
        id="path3632"
+       transform="translate(37.75,48)"
+       d="m 27,47 0,14 14,0 0,-14 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       style="fill:#cccccc;fill-opacity:1;stroke:none"
+       d="m 25.75,48 0,16 16,0 0,-16 z m 1,1 14,0 0,14 -14,0 z"
+       transform="translate(38,46)"
+       id="path3209"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     transform="translate(-258,-76)"
+     id="groove-center">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 264,112 0,5 5,0 0,-5 -5,0 z"
+       id="rect8669-3" />
+  </g>
+  <g
+     transform="translate(-259,-77)"
+     id="groove-topleft">
+    <path
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 260,108 0,4 4,0 0,-4 z"
+       id="path4447-1"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 259,107 0,5 1,0 0,-4 4,0 0,-1 z"
+       id="path4451-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     transform="translate(-259,-76)"
+     id="groove-left">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 259,112 0,5 1,0 0,-5 -1,0 z"
+       id="path4493-9" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 260,112 0,5 4,0 0,-5 -4,0 z"
+       id="path4489-2" />
+  </g>
+  <g
+     transform="translate(-258,-77)"
+     id="groove-top">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 264,108 0,4 5,0 0,-4 -5,0 z"
+       id="path4543-0" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:url(#radialGradient4655-274);fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 264,107 0,1 5,0 0,-1 -5,0 z"
+       id="path4545-6" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 264,107 0,1 5,0 0,-1 z"
+       id="path4547-8"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3209"
-       transform="translate(38,46)"
-       d="m 25.75,48 0,16 16,0 0,-16 z m 1,1 14,0 0,14 -14,0 z"
-       style="fill:#cccccc;fill-opacity:1;stroke:none"
-       sodipodi:nodetypes="cccccccccc" />
   </g>
   <g
-     id="groove-center"
-     transform="translate(-258,-76)">
+     transform="translate(-259,-75)"
+     id="groove-bottomleft">
     <path
-       id="rect8669-3"
-       d="m 264,112 0,5 5,0 0,-5 -5,0 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="groove-topleft"
-     transform="translate(-259,-77)">
-    <path
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       id="path4447-1"
-       d="m 260,108 0,4 4,0 0,-4 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path4451-4"
-       d="m 259,107 0,5 1,0 0,-4 4,0 0,-1 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     id="groove-left"
-     transform="translate(-259,-76)">
-    <path
-       id="path4493-9"
-       d="m 259,112 0,5 1,0 0,-5 -1,0 z"
        style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path4489-2"
-       d="m 260,112 0,5 4,0 0,-5 -4,0 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="groove-top"
-     transform="translate(-258,-77)">
-    <path
-       id="path4543-0"
-       d="m 264,108 0,4 5,0 0,-4 -5,0 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path4545-6"
-       d="m 264,107 0,1 5,0 0,-1 -5,0 z"
-       style="fill:url(#radialGradient4655);fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:nodetypes="ccccc"
-       inkscape:connector-curvature="0"
-       id="path4547-8"
-       d="m 264,107 0,1 5,0 0,-1 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     id="groove-bottomleft"
-     transform="translate(-259,-75)">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path4470-9"
        d="m 259,117 0,5 5,0 0,-1 -4,0 0,-4 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
+       id="path4470-9"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       id="path4468-2"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 260,117 0,4 4,0 0,-4 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       id="path4468-2"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
   </g>
   <g
-     id="groove-bottom"
-     transform="translate(-258,-75)">
+     transform="translate(-258,-75)"
+     id="groove-bottom">
     <path
-       id="path4520-6"
+       inkscape:connector-curvature="0"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 264,121 0,1 5,0 0,-1 -5,0 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
+       id="path4520-6" />
     <path
-       id="path4516-6"
+       inkscape:connector-curvature="0"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 264,117 0,4 5,0 0,-4 -5,0 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
+       id="path4516-6" />
   </g>
   <g
-     id="groove-topright"
-     transform="translate(-257,-77)">
+     transform="translate(-257,-77)"
+     id="groove-topright">
     <path
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc"
-       id="path4426-4"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 269,108 0,4 4,0 0,-4 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path4430-9"
-       d="m 269,107 0,1 4,0 0,4 1,0 0,-5 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  </g>
-  <g
-     id="groove-right"
-     transform="translate(-257,-76)">
-    <path
-       id="path4574-5"
-       d="m 273,112 0,5 1,0 0,-5 -1,0 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path4570-0"
-       d="m 269,112 0,5 4,0 0,-5 -4,0 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       inkscape:connector-curvature="0" />
-  </g>
-  <g
-     id="groove-bottomright"
-     transform="translate(-257,-75)">
-    <path
-       sodipodi:nodetypes="ccccccc"
-       inkscape:connector-curvature="0"
-       id="path4404-4"
-       d="m 273,117 0,4 -4,0 0,1 5,0 0,-5 z"
-       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-    <path
-       inkscape:connector-curvature="0"
+       id="path4426-4"
        sodipodi:nodetypes="ccccc"
-       id="path4400-8"
-       d="m 269,117 0,4 4,0 0,-4 z"
-       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 269,107 0,1 4,0 0,4 1,0 0,-5 z"
+       id="path4430-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
   </g>
+  <g
+     transform="translate(-257,-76)"
+     id="groove-right">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 273,112 0,5 1,0 0,-5 -1,0 z"
+       id="path4574-5" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 269,112 0,5 4,0 0,-5 -4,0 z"
+       id="path4570-0" />
+  </g>
+  <g
+     transform="translate(-257,-75)"
+     id="groove-bottomright">
+    <path
+       style="fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 273,117 0,4 -4,0 0,1 5,0 0,-5 z"
+       id="path4404-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       style="fill:#f8f8f8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 269,117 0,4 4,0 0,-4 z"
+       id="path4400-8"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0" />
+  </g>
+  <rect
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="groove-hint-left-margin"
+     width="3.0000019"
+     height="2.9999981"
+     x="1.1349487e-06"
+     y="37.000004" />
+  <rect
+     y="30.000004"
+     x="7.000001"
+     height="2.9999986"
+     width="3.0000019"
+     id="groove-hint-top-margin"
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="groove-hint-bottom-margin"
+     width="2.9999981"
+     height="3.0000019"
+     x="7.0000029"
+     y="44" />
   <rect
      y="37.000004"
-     x="1.1349487e-06"
-     height="2.9999981"
-     width="3.0000019"
-     id="groove-hint-left-margin"
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="groove-hint-top-margin"
-     width="3.0000019"
-     height="2.9999986"
-     x="7.000001"
-     y="30.000004" />
-  <rect
-     y="44"
-     x="7.0000029"
-     height="3.0000019"
-     width="2.9999981"
-     id="groove-hint-bottom-margin"
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
-  <rect
-     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none"
-     id="groove-hint-right-margin"
-     width="3.0000019"
-     height="2.9999981"
      x="14.000002"
-     y="37.000004" />
+     height="2.9999981"
+     width="3.0000019"
+     id="groove-hint-right-margin"
+     style="fill:#ff00a8;fill-opacity:1;fill-rule:nonzero;stroke:none" />
   <path
-     style="fill:#cccccc;fill-opacity:1;stroke:none"
-     d="m 90.000003,90 0,18 L 108,108 108,90 z"
-     id="horizontal-slider-hover"
+     sodipodi:nodetypes="ccccc"
      inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccc" />
+     id="horizontal-slider-hover"
+     d="m 90.000003,90 0,18 L 108,108 108,90 z"
+     style="fill:#cccccc;fill-opacity:1;stroke:none" />
   <g
-     transform="translate(27.250003,-43)"
-     id="horizontal-slider-handle">
+     id="horizontal-slider-handle"
+     transform="translate(27.250003,-43)">
     <path
-       style="fill:#ffffff;fill-opacity:1;stroke:none"
-       d="m 27,47 0,14 14,0 0,-14 z"
-       transform="translate(37.75,48)"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
        id="path3632-8"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccc" />
+       transform="translate(37.75,48)"
+       d="m 27,47 0,14 14,0 0,-14 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
     <path
-       inkscape:connector-curvature="0"
-       id="path3209-3"
-       transform="translate(38,46)"
-       d="m 25.75,48 0,16 16,0 0,-16 z m 1,1 14,0 0,14 -14,0 z"
+       sodipodi:nodetypes="cccccccccc"
        style="fill:#cccccc;fill-opacity:1;stroke:none"
-       sodipodi:nodetypes="cccccccccc" />
+       d="m 25.75,48 0,16 16,0 0,-16 z m 1,1 14,0 0,14 -14,0 z"
+       transform="translate(38,46)"
+       id="path3209-3"
+       inkscape:connector-curvature="0" />
   </g>
   <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="horizontal-slider-focus"
-     d="m 90.000003,110 0,18 17.999997,0 0,-18 z"
-     style="fill:#cccccc;fill-opacity:1;stroke:none" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="horizontal-slider-shadow"
-     d="m 90.000003,70 0,18 L 108,88 108,70 z"
-     style="opacity:0;fill:#cccccc;fill-opacity:1;stroke:none" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     inkscape:connector-curvature="0"
-     id="vertical-slider-hover"
-     d="m 50.000003,90 0,18 18,0 0,-18 z"
-     style="fill:#cccccc;fill-opacity:1;stroke:none" />
-  <path
      style="fill:#cccccc;fill-opacity:1;stroke:none"
-     d="m 50.000003,110 0,18 18,0 0,-18 z"
-     id="vertical-slider-focus"
+     d="m 90.000003,110 0,18 17.999997,0 0,-18 z"
+     id="horizontal-slider-focus"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
      style="opacity:0;fill:#cccccc;fill-opacity:1;stroke:none"
-     d="m 50.000003,70 0,18 18,0 0,-18 z"
-     id="vertical-slider-shadow"
+     d="m 90.000003,70 0,18 L 108,88 108,70 z"
+     id="horizontal-slider-shadow"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
+  <path
+     style="fill:#cccccc;fill-opacity:1;stroke:none"
+     d="m 50.000003,90 0,18 18,0 0,-18 z"
+     id="vertical-slider-hover"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="vertical-slider-focus"
+     d="m 50.000003,110 0,18 18,0 0,-18 z"
+     style="fill:#cccccc;fill-opacity:1;stroke:none" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="vertical-slider-shadow"
+     d="m 50.000003,70 0,18 18,0 0,-18 z"
+     style="opacity:0;fill:#cccccc;fill-opacity:1;stroke:none" />
 </svg>
