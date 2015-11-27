@@ -122,7 +122,7 @@ SmallSizes=16
 PanelDefault=32
 PanelSizes=16,22,32,48,64,128
 
-Directories=16x16/animations,22x22/animations,32x32/animations,48x48/animations,64x64/animations,96x96/animations,128x128/animations,128x128/apps,192x192/animations,256x256/animations,256x256/apps,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
+Directories=16x16/animations,22x22/animations,32x32/animations,48x48/animations,64x64/animations,96x96/animations,128x128/animations,128x128/apps,192x192/animations,256x256/animations,256x256/apps,256x256/emotes,scalable/actions,scalable/animations,scalable/apps,scalable/categories,scalable/devices,scalable/emblems,scalable/emotes,scalable/mimetypes,scalable/places,scalable/status
 
 [scalable/actions]
 Size=128
@@ -238,4 +238,8 @@ Type=Threshold
 [256x256/apps]
 Size=256
 Context=Applications
+Type=Threshold
+[256x256/emotes]
+Size=256
+Context=Emotes
 Type=Threshold
