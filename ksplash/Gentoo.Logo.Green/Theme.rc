@@ -1,0 +1,9 @@
+[KSplash Theme: Gentoo.Logo.Green]
+Name = KDE 4.6 Splash Screen
+Description = Simple Gentoo Splash Screen with Logo in Green
+Version = 1.0.0
+Author = seqizz
+Copyright = GPL
+
+# Theme behaviour settings.
+Engine = KSplashX

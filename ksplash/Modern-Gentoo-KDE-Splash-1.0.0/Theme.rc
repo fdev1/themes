@@ -1,9 +1,0 @@
-[KSplash Theme: Modern-Gentoo-KDE-Splash-1.0.0]
-Name = Modern Gentoo Splash
-Description = Animated Gentoo KDE logo on custom background
-Version = 1.0.0
-Author = Jorgicio <jpizarro at inf dot utfsm dot cl>
-Homepage = http://www.jorgicio.net
-
-# Theme behaviour settings.
-Engine = KSplashQML
