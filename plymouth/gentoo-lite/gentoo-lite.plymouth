@@ -1,0 +1,11 @@
+[Plymouth Theme]
+Name=Gentoo Lite
+Description=Gentoo Lite splash screen.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/gentoo-lite
+ScriptFile=/usr/share/plymouth/themes/gentoo-lite/gentoo-lite.script
+
+[script-env-vars]
+example_env_var=example env var value
