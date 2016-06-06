@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Gentoo-Linux-KDE
+Description=Gentoo/Linux/KDE Theme, based on the KDM theme by the same name
+Author=Patrick Nagel (sddm port by Fernando Rodriguez)
+Copyright=Copyright (c) 2016
+License=GPL
+Type=sddm-theme
+Version=0.1
+Website=https://github.com/sddm/sddm
+Screenshot=screenshot.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=abdurrahmanavci@gmail.com
+Theme-Id=gentoo-linux-kde
+Theme-API=2.0
